@@ -4,10 +4,10 @@ This Module adds CFrames from roblox into polytoria!
 
 ### Navigation
 
-* [Setting Up](https://github.com/GplateGummy/PolyCFrameModule#setting-up)
-* [CFrame Math & Logic (+, -, *)](https://github.com/GplateGummy/PolyCFrameModule#cframe-math--logic)
-* [Moving Instances](https://github.com/GplateGummy/PolyCFrameModule#moving-instances)
-* [All Module Functions](https://github.com/GplateGummy/PolyCFrameModule#all-module-functions)
+* [Setting Up](#setting-up)
+* [CFrame Math & Logic (+, -, *)](#cframe-math--logic)
+* [Moving Instances](#moving-instances)
+* [All Module Functions](#all-module-functions)
 
 ---
 
