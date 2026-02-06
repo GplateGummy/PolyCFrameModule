@@ -18,7 +18,7 @@ To start using this module, you first have to set it up.
 1. **Get the CFrame Module.**
 * **Toolbox ID:** 1722
 * **Toolbox Link:** https://polytoria.com/models/1722
-* **GitHub Link:** https://github.com/GplateGummy/PolyCFrameModule/blob/main/CFrameModule.lua
+* **GitHub Link:** https://github.com/GplateGummy/PolyCFrameModule/blob/main/CFrameModule.Lua
 * You can also search for **CFrameModule** in the toolbox and insert it! (Make sure it is uploaded by **GplateGam**).
 
 2. At the top of your script, add this line and replace `PATH` with your module's location.
