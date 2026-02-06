@@ -97,8 +97,6 @@ This looks at an object's current Position and Rotation and turns it into a sing
 local currentPos = CFrame.GetCFrame(myPart)
 ```
 
->**NOTICE :** MoveCFrame is used for **Parts**, SetCFrame is used for **Models**.
-
 ---
 
 ## All Module Functions
