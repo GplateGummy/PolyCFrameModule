@@ -78,9 +78,9 @@ Since Polytoria objects use `.Position` and `.Rotation` separately, this module 
 This teleport an object directly to a new spot and turns it to the right angle.
 
 ```lua
-local myPart = script.Parent
+local myModel = script.Parent
 local goal = CFrame.new(Vector3.New(0, 10, 0))
-CFrame.SetCFrame(myPart, goal)
+CFrame.SetCFrame(myModel, goal)
 ```
 
 ### **Moving an Instance**
@@ -97,7 +97,7 @@ This looks at an object's current Position and Rotation and turns it into a sing
 local currentPos = CFrame.GetCFrame(myPart)
 ```
 
->**NOTICE :** MoveCFrame is used for **Parts**, SetCFrame is used for **Models** and it's "." functions not a ":" functions.
+>**NOTICE :** MoveCFrame is used for **Parts**, SetCFrame is used for **Models**.
 
 ---
 
