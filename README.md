@@ -117,6 +117,8 @@ Creates a rotation using angles (radians). This matches how most games handle tu
 A shorter way to use `fromEulerAnglesYXZ`. Great for quick rotations.
 * **CFrame.fromPolyRotation(PolyRotation : Vector3)**
 Takes a standard Polytoria rotation and turns it into a CFrame.
+* **CFrame.fromRotationBetweenVectors(From : Vector3, To : Vector3)**
+Creates a CFrame rotation that represents the rotation needed to rotate the "From" vector to point in the direction of the "To" vector.
 
 ### **Math and Space Functions**
 
