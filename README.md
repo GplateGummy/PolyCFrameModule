@@ -146,10 +146,3 @@ Moves a part to a CFrame using Polytoria `Move` functions.
 Converts the CFrame's rotation back into Polytoria rotation.
 * **CFrame:GetComponents()**
 Breaks the CFrame down into all its raw numbers (position and the rotation matrix).
-
----
-
-### To-Do List
-
-- [ ] Add .Pos .pos .P support
-- [ ] Uppercase functions; CFrame.New()
